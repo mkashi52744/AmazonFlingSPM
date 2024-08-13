@@ -5,7 +5,7 @@
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/mskrischke/AmazonFlingSPM.git", .upToNextMinor(from: "1.4.0"))
+    .package(url: "https://github.com/mkashi52744/AmazonFlingSPM.git", .upToNextMinor(from: "1.4.0"))
 ]
 ```
 

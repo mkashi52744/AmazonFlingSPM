@@ -20,12 +20,12 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "AmazonFling",
-            url: "https://github.com/mskrischke/AmazonFlingSPM/releases/download/1.4.0/AmazonFling.xcframework.zip",
+            url: "https://github.com/mkashi52744/AmazonFlingSPM/releases/download/v1.0.6/AmazonFling.xcframework.zip",
             checksum: "fe4bc0c3aae365a5c5b7d7a4dfb44ad2bb95441cef5dc6a662f4522159bceee0"
         ),
         .binaryTarget(
             name: "Bolts",
-            url: "https://github.com/mskrischke/AmazonFlingSPM/releases/download/1.4.0/Bolts.xcframework.zip",
+            url: "https://github.com/mkashi52744/AmazonFlingSPM/releases/download/v1.0.6/Bolts.xcframework.zip",
             checksum: "8b2003dd5f0314810bba711a6bb0c530c0e8bc5108f2e5f09e8c8d45df0da7b4"
         )
     ]
